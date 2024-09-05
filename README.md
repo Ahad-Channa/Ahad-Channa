@@ -1,6 +1,10 @@
 
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+
 - 👋 Hi, I’m @Ahad-Channa
-- 👀 I’m interested in Web development, data analytics, Video games.  
+- 👀 I’m interested in Web development, data analytics, Video games, Java.  
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on Open source java project, web development, and other programming side activites.
 - 📫 How to reach me: Instagram & linkdin links are in profile.
