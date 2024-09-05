@@ -1,4 +1,4 @@
-<table style="border: none">
+<table style="border: 0px solid white;">
   <tr>
     <td>
       - 👋 Hi, I’m @Ahad-Channa <br>                   
