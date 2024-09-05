@@ -1,16 +1,14 @@
-<table style="border: 0px solid white;">
-  <tr>
-    <td>
-      - 👋 Hi, I’m @Ahad-Channa <br>                   
-      - 👀 I’m interested in Web development, data analytics, Video games, Java. <br>                 
-      - 🌱 I’m currently learning Computer Science. <br>                  
-      - 💞️ I’m looking to collaborate on Open source java project, web development, and other programming side activites.<br>
-      - 📫 How to reach me: Instagram & linkdin links are in profile.<br>
-      - 😄 Pronouns: He/him/his  <br>                  
-      - ⚡ Fun fact: I'm Intelligent, I understand new things in a very short time.<br>
-    </td>
-    <td>
-      <img align="right" alt="GIF" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" />
-    </td>
-  </tr>
-</table>
+
+
+- 👋 Hi, I’m @Ahad-Channa
+- 👀 I’m interested in Web development, data analytics, Video games.  
+- 🌱 I’m currently learning Computer Science.
+- 💞️ I’m looking to collaborate on Open source java project, web development, and other programming side activites.
+- 📫 How to reach me: Instagram & linkdin links are in profile.
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact: I'm Intelligent, i understand new things in very short time.
+
+
+<br>
+
+<img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
