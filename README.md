@@ -1,9 +1,9 @@
 
 
 - 👋 Hi, I’m @Ahad-Channa
-- 👀 I’m interested in Web development, data analytics, Video games.  
-- 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on Open source java project, web development, and other programming side activites.
+- 👀 I’m interested in Web development, Machine Learning, Deep Learning, Video games.  
+- 🌱 I’m Computer Science Graduate.
+- 💞️ I’m looking to collaborate on Open source java project, web development, Machine Learning Projects, AI engineer Projects.
 - 📫 How to reach me: Instagram & linkdin links are in profile.
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I'm Intelligent, i understand new things in very short time.
